@@ -25,6 +25,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "G:\\Trabajo\\GitProjects\\Real-Projects\\BootstrapDashboard\\wwwroot\\images\\avatars\\319-3191274_male-avatar-admin-profile.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\319-3191274_male-avatar-admin-profile.png"
+    },
+    {
+      "Id": "G:\\Trabajo\\GitProjects\\Real-Projects\\BootstrapDashboard\\wwwroot\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "G:\\Trabajo\\GitProjects\\Real-Projects\\BootstrapDashboard\\wwwroot\\images\\logo\\logoipsum-243.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\logoipsum-243.svg"
+    },
+    {
       "Id": "G:\\Trabajo\\GitProjects\\Real-Projects\\BootstrapDashboard\\wwwroot\\js\\demo.dashboardpack.com_architectui-html-free_assets_scripts_main.js",
       "PackagePath": "staticwebassets\\js\\demo.dashboardpack.com_architectui-html-free_assets_scripts_main.js"
     },
