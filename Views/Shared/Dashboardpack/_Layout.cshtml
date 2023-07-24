@@ -18,10 +18,12 @@ Dashboardpack
       <!-- Navbar -->
       <partial name="Dashboardpack/_TopNavigation" />
       <!-- Main Sidebar Container -->
-      <partial name="Dashboardpack/_SideBarNavigation" />
-      <!-- Content Wrapper. Contains page content -->
-    @* <div class="content-wrapper"> <div class="content"> *@
-      <div class="app-main__outer">@RenderBody()</div>
+      <div class="app-main">
+        <partial name="Dashboardpack/_SideBarNavigation" />
+        <!-- Content Wrapper. Contains page content -->
+      @* <div class="content-wrapper"> <div class="content"> *@
+        <div class="app-main__outer">@RenderBody()</div>
+      </div>
     @* </div> </div> *@
       <!-- /.content-wrapper -->
       <!-- Main Footer -->
