@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BootstrapDashboard.props" />
+</Project>
